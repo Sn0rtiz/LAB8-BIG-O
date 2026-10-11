@@ -3,7 +3,7 @@
  * Name: [Sebastian Ortiz]
  * Lab: Lab 8 - Big-O / Time Complexity
  * Description: Guided example - compare algorithm work patterns
- * Due date: [10/11/2026]
+ * Due date: [10/12/2026]
  */
 
 #include <iostream>
